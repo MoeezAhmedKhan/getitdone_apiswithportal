@@ -1,0 +1,21 @@
+[03-Jan-2023 11:02:56 UTC] PHP Warning:  Undefined variable $Id in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 23
+[03-Jan-2023 11:03:53 UTC] PHP Warning:  Undefined variable $Id in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 23
+[05-Jan-2023 08:17:08 UTC] PHP Warning:  Undefined array key "address" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 14
+[05-Jan-2023 08:17:08 UTC] PHP Warning:  Undefined array key "address2" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 15
+[05-Jan-2023 08:17:08 UTC] PHP Warning:  Undefined array key "city" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 16
+[05-Jan-2023 08:17:08 UTC] PHP Warning:  Undefined array key "state" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 17
+[05-Jan-2023 08:17:08 UTC] PHP Warning:  Undefined array key "zip" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 18
+[05-Jan-2023 08:17:54 UTC] PHP Warning:  Undefined array key "address" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 14
+[05-Jan-2023 08:17:54 UTC] PHP Warning:  Undefined array key "address2" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 15
+[05-Jan-2023 08:17:54 UTC] PHP Warning:  Undefined array key "city" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 16
+[05-Jan-2023 08:17:54 UTC] PHP Warning:  Undefined array key "state" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 17
+[05-Jan-2023 08:17:54 UTC] PHP Warning:  Undefined array key "zip" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 18
+[05-Jan-2023 08:18:50 UTC] PHP Warning:  Undefined array key "address" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 14
+[05-Jan-2023 08:18:50 UTC] PHP Warning:  Undefined array key "address2" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 15
+[05-Jan-2023 08:18:50 UTC] PHP Warning:  Undefined array key "city" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 16
+[05-Jan-2023 08:18:50 UTC] PHP Warning:  Undefined array key "state" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 17
+[05-Jan-2023 08:18:50 UTC] PHP Warning:  Undefined array key "zip" in /home/sassolut/public_html/getitdone/admin_panel/phpfiles/action.php on line 18
+[15-Feb-2023 10:38:12 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/getitdone/admin_panel/connection.php on line 8
+[15-Feb-2023 10:38:12 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/getitdone/admin_panel/connection.php on line 8
+[17-Feb-2023 14:21:06 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/getitdone/admin_panel/connection.php on line 8
+[22-Feb-2023 00:44:42 UTC] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:100337 Library:30120 in /home/sassolut/public_html/getitdone/admin_panel/connection.php on line 8
